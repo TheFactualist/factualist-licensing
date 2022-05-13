@@ -2,7 +2,7 @@
 
 - [License Document](./LICENSE.md)
 - [License HTML](./license.html)
-- [XMP CC BY-NC-SA 4.0](./CC BY-NC-SA 4.0.xmp)
+- [XMP CC BY-NC-SA 4.0](./CC%20BY-NC-SA%204.0.xmp)
 
 ## Snippets
 
